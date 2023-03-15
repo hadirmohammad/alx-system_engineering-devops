@@ -1,0 +1,3 @@
+#!/bin/bash
+alias aliasname='ls'
+alias rm="rm*"
